@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Your Name. MIT License.
 #include <bits/stdc++.h>
 using namespace std;
 const int P = 131;
