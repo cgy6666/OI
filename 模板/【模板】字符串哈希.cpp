@@ -1,4 +1,4 @@
-// Copyright (c) 2026 Your Name. MIT License.
+// Copyright (c) 2026 Your cgy6666. MIT License.
 #include <bits/stdc++.h>
 using namespace std;
 const int P = 131;
